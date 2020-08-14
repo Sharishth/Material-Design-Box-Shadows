@@ -4,3 +4,4 @@ Material Design Box Shadows by Samuel Thornton
 [Samuel Thornton](https://codepen.io/sdthornton)
 <br>
 [Demo]( https://sharishth.github.io/Material-Design-Box-Shadows/.)
+![alt text](https://raw.githubusercontent.com/Sharishth/Material-Design-Box-Shadows/master/Screenshot%20from%202020-08-14%2015-40-42.png "screenshot")
